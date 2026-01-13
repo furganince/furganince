@@ -83,7 +83,7 @@ Veri bilimi, analitik veya proje işbirliği hakkında konuşmak istersen:
 
 - 📧 **Email**: [furganince@outlook.com](mailto:furganince@outlook.com)
 - 💼 **LinkedIn**: [linkedin.com/in/furganince](https://www.linkedin.com/in/furganince)
-- 📱 **Telefon**: +90 (531) 703 4594
+
 
 ---
 
