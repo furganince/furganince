@@ -48,75 +48,9 @@ Elektrik ve Elektronik Mühendisliği eğitimini tamamladıktan sonra, veri bili
 
 ---
 
-## 💼 İş Deneyimi
-
-### **Field Engineer** | *Bering Yachts*
-*Kasım 2024 - Kasım 2025*
-- Teknik proje yönetimi ve alan denetleme
-- Kalite kontrol ve performans analizi
-
-### **QA Engineer** | *AGEST Marine*
-*Mart 2024 - Eylül 2024*
-- Test otomasyonu ve kalite güvence
-- Hata analizi ve raporlama
-
-### **Field Engineer** | *AGEST Marine*
-*Haziran 2021 - Mart 2024*
-- Mühendislik destek ve teknisyen supervizyon
-- Proje koordinasyonu
-
-### **Staj Pozisyonları**
-- Ek mühendislik ve teknik deneyim
-
----
-
-## 🎓 Eğitim
-
-### **MIUUL Data Scientist Bootcamp**
-*Kasım 2023 - Nisan 2024*
-- Yoğun veri bilimi ve makine öğrenmesi eğitimi
-- Gerçek dünya projeleri üzerinde çalışma
-- Sertifikasyon
-
-### **Karadeniz Teknik Üniversitesi**
-*2014 - 2020*
-- **Derece**: B.Sc. Elektrik & Elektronik Mühendisliği
-- Temel bilim, elektrik ve haberleşme mühendisliği
-
----
-
-## 📊 Öne Çıkan Projeler
-
-### 🔴 Churn Prediction
-- Müşteri ayrılma tahminlemesi için makine öğrenmesi modeli
-- Teknolojiler: Python, scikit-learn, Pandas
-- **Impact**: Müşteri retansiyon stratejileri geliştirme
-
-### 💰 Customer Lifetime Value (CLTV)
-- Müşteri yaşam boyu değeri hesaplaması ve segmentasyonu
-- İşletme kararları için öngörü analitikleri
-- **Tools**: Python, SQL, Excel
-
-### 📈 RFM Segmentasyonu
-- Recency-Frequency-Monetary analizi ile müşteri segmentasyonu
-- Hedefli pazarlama kampanyaları
-- **Yöntem**: İstatistiksel analiz, K-means clustering
-
-### 🧪 A/B Testing
-- Kapsamlı hipotez testleri ve deney tasarımı
-- İstatistiksel anlamlılık analizi
-- Karar alma mekanizmaları
-
-### 📊 Diğer Projeler
-- **Veri Temizleme & Ön İşleme**: Gerçek dünya verileri ile çalışma
-- **İstatistiksel Analiz**: Deskriptif ve inferensiyal istatistik
-- **Görselleştirme**: Etkili raporlar ve sunumlar
-
----
-
 ## 📝 Medium Yazıları
 
-Veri bilimi, istatistik ve makine öğrenmesi hakkında yazılar yazıyorum.
+Pek yakında, veri bilimi ve makine öğrenmesi hakkında yazılar yazacağım.
 
 👉 [Medium Profilini Ziyaret Et](https://medium.com/@furganince)
 
