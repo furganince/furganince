@@ -15,20 +15,20 @@
 
 ---
 
-## 🎯 Hakkımda
+##  Hakkımda
 
 Elektrik ve Elektronik Mühendisliği eğitimini tamamladıktan sonra, veri bilimi ve analitik alanına geçiş yaparak yeni bir kariyer oluşturma yolunda ilerliyorum. MIUUL Data Scientist Bootcamp'ini tamamladıktan sonra, gerçek dünya problemlerini veri-odaklı çözümlerle ele almaya başladım.
 
 **Uzmanlık Alanlarım:**
-- 📊 **Veri Analizi & İstatistiksel Analiz**
-- 🤖 **Makine Öğrenmesi Modelleri**
-- 📈 **A/B Testing & Deneysel Tasarım**
-- 💼 **İş Zekası & Raporlama**
-- 🔍 **Müşteri Segmentasyonu & Davranış Analizi**
+-  **Veri Analizi & İstatistiksel Analiz**
+-  **Makine Öğrenmesi Modelleri**
+-  **A/B Testing & Deneysel Tasarım**
+-  **İş Zekası & Raporlama**
+-  **Müşteri Segmentasyonu & Davranış Analizi**
 
 ---
 
-## 🛠️ Teknik Beceriler
+##  Teknik Beceriler
 
 ### Programlama & Veri İşleme
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -48,15 +48,15 @@ Elektrik ve Elektronik Mühendisliği eğitimini tamamladıktan sonra, veri bili
 
 ---
 
-## 📝 Medium Yazıları
+##  Medium Yazıları
 
 Pek yakında, veri bilimi ve makine öğrenmesi hakkında yazılar yazacağım.
 
-👉 [Medium Profilini Ziyaret Et](https://medium.com/@furganince)
+[Medium Profilini Ziyaret Et](https://medium.com/@furganince)
 
 ---
 
-## 📈 İstatistikler
+##  İstatistikler
 
 <div align="center">
 
@@ -68,16 +68,16 @@ Pek yakında, veri bilimi ve makine öğrenmesi hakkında yazılar yazacağım.
 
 ---
 
-## 🎯 Hedeflerim
+##  Hedeflerim
 
-- ✅ Veri biliminde güçlü yetenekler geliştirme
-- ✅ Gerçek dünya problemlerinde etki yaratma
-- ✅ Makine öğrenmesi ve derin öğrenmeyi derinleştirme
-- ✅ Topluluğa bilgi paylaşımı yapma
+-  Veri biliminde güçlü yetenekler geliştirme
+-  Gerçek dünya problemlerinde etki yaratma
+-  Makine öğrenmesi ve derin öğrenmeyi derinleştirme
+-  Topluluğa bilgi paylaşımı yapma
 
 ---
 
-## 🤝 İletişim
+##  İletişim
 
 Veri bilimi, analitik veya proje işbirliği hakkında konuşmak istersen:
 
@@ -89,8 +89,8 @@ Veri bilimi, analitik veya proje işbirliği hakkında konuşmak istersen:
 
 <div align="center">
 
-**⭐ Projeleri beğendiysen, yıldız vermekten çekinme! 🚀**
+**Projeleri beğendiysen, yıldız vermekten çekinme!**
 
-*Son güncelleme: 12 Ocak 2026*
+*Son güncelleme: 10 Mart 2026*
 
 </div>
